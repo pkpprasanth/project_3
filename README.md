@@ -1,6 +1,6 @@
-![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
+![alt text](https://github.com/prasanth132910/image/blob/main/logo.png)
 
-# PROGRAD PROJECT BUILDER | NODE | QUIZ - STAGE - 1 - WORK WITH JSON AND FILE SYSTEM
+# NODE | QUIZ - WORK WITH JSON AND FILE SYSTEM
 
 ## Learning Goals
 
@@ -16,7 +16,6 @@ In this exercise, you will learn to work with json and file system in node:
 
 Whenever you create a first significant change, you should make your first commit.
 
-3. Follow these [guidelines to add, commit and push changes](https://github.com/FACEPrep-ProGrad/general-guidelines-labs-project-builders.git).
 
 In the end of this document, you will find guidelines on how to submit the exercise.
 
@@ -54,4 +53,4 @@ If you managed to do it, good job! :trophy:
 
 We are proud of you!
 
-Happy Coding ProGrad ❤️!
+Happy Coding  ❤️!
